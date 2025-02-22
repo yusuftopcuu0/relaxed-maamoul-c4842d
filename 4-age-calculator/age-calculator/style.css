@@ -1,0 +1,23 @@
+body {
+  background-color: #f7f7f7 !important;
+}
+
+.container {
+  background-color: white;
+  max-width: 720px !important;
+  height: 270px;
+  border-radius: 5px;
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+.dateInput {
+  width: 300px !important;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.btn-primary {
+  margin-top: 10px;
+}
